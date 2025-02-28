@@ -125,10 +125,10 @@ rm -rf ~/flvm_versions
 ## 📌 Contribuer
 
 Si tu veux contribuer :
-1. **Fork le projet** sur [GitHub](https://github.com/tonrepo/flvm)
+1. **Fork le projet** sur [GitHub](https://github.com/mohachouch/flvm)
 2. Clone le repo :
    ```bash
-   git clone https://github.com/tonrepo/flvm.git
+   git clone https://github.com/mohachouch/flvm.git
    cd flvm
    ```
 3. Fais tes modifications et propose une **pull request** ✅
