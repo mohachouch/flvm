@@ -1,10 +1,10 @@
-# 🚀 flvm - Flutter Version Manager
+# 🚀 flvm - Flutter Local (Light) Version Manager
 **Gérez facilement plusieurs versions de Flutter localement**
 
 ---
 
 ## 📌 Description
-`flvm` (**Flutter Version Manager**) est un outil CLI permettant de :
+`flvm` (**Flutter Local (Light) Version Manager**) est un outil CLI permettant de :
 ✔ **Installer plusieurs versions de Flutter**  
 ✔ **Basculer rapidement entre différentes versions**  
 ✔ **Utiliser un dépôt interne de Flutter** (`FLUTTER_STORAGE_BASE_URL`)  
@@ -87,7 +87,7 @@ flvm install 3.13.9
 
 ---
 
-## 📌 Comparaison avec `fvm` (Flutter Version Manager)
+## 📌 Comparaison avec `fvm` (Flutter Local (Light) Version Manager)
 
 | Fonctionnalité  | flvm | fvm |
 |----------------|------|------|
